@@ -1,0 +1,27 @@
+<!--todo_app/templates/base.html-->
+<!--Base template-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--Simple.css-->
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <title>Django To-do Lists</title>
+</head>
+<body>
+    <div>
+        <a href="{% url 'index' %}">
+            <h1 >
+                Django To-do Lists
+            </h1>
+        </a>
+
+
+    </div>
+    <div>
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>
