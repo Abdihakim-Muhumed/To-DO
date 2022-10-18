@@ -1,6 +1,6 @@
 # To - DO
 This is a simple To-DO application that you can use to manage your To dos. Built with python Django.
-
+![Preview](images/To-Do.png)
 # Set up instructions:
 - Clone this repository
     - git clone "https://github.com/Abdihakim-Muhumed/weather-app"
