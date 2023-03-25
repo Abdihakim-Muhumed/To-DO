@@ -3,7 +3,7 @@ This is a simple To-DO application that you can use to manage your To dos. Built
 ![Preview](images/To-Do.png)
 # Set up instructions:
 - Clone this repository
-    - git clone "https://github.com/Abdihakim-Muhumed/weather-app"
+    - git clone "https://github.com/Abdihakim-Muhumed/To-DO.git"
 - Navigate to weather-app directory
     - cd weather-app
 - Install requirements
